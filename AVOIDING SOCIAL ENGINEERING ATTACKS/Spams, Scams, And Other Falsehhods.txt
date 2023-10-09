@@ -77,3 +77,48 @@ If you’re skeptical of this strategy, try finding the differences between thes
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Identity Fraud
+----------------
+Identity fraud refers to when an attacker uses a victim’s personal information. Many of us have heard of examples of malicious actors pretending to be someone for financial gain. For 
+example, using someone else’s credit card or bank account.
+
+Identity fraud isn’t just used for financial gain. It can also be used by social engineers to more convincingly impersonate a victim, either by posing as the victim to mislead others or 
+to gain additional access to the victim’s accounts and resources.
+
+On an individual scale, this could be something like using stolen personal information to “recover” a bank account or target an organization that the individual works for.
+
+This type of fraud can also happen on a larger scale, such as in the form of invoice scams, where an attacker alters details on an invoice to steal money. One form of invoice scam 
+involves using social engineering to pose as an employee of one organization and sending fraudulent invoices to other companies.
+
+If the attacker is successful, the second company won’t notice the issue and will just pay the invoice!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
