@@ -42,3 +42,38 @@ When done correctly, this can make the unsuspecting victim feel an even greater 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Hoaxes
+--------
+Lying to get what you want is a core part of social engineering, and this can come in many forms. Often, it aligns with one or more of the core principles of social engineering. In social 
+engineering, these lies are often called hoaxes. One common hoax is to fake security alerts, creating a sense of urgency for the victim. These fake alerts often make use of trust and 
+authority as well, because the alerts appear to come from real sources which instruct the victim to take the required action.
+
+Another type of lie used in social engineering is pretexting, which is when a social engineer invents a false pretext, or reason, for why a victim should share information or carry out an 
+action.
+
+If a random person emailed you asking for sensitive information, you would probably ignore them. On other hand, if the person claimed to be the new point of contact for a contractor 
+working with your organization, you might be fooled into revealing information to them.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Social Engineering and URLs
+-----------------------------
+The internet has made it easier than ever to mislead people, and this can occur before a user even connects to a website! Social engineers can trick victims using a simple link to a 
+“trusted” website.
+
+A strategy known as pharming refers to when a social engineer redirects victims from a legitimate website to their malicious website instead. This generally involves tampering with DNS 
+information for a computer, a network, or a larger portion of the internet. Pharming can be done by making the name resolution process point to a different IP address. A popular use of 
+this is to harvest banking credentials from unsuspecting victims.
+
+Another strategy used to lure unsuspecting victims onto malicious websites is typosquatting. Typosquatting is when an attacker will register a domain very similar to an existing 
+legitimate website, then wait for people to visit the malicious domain. For example, an attacker might register codeAcademy.com to trick users who are trying to visit codecademy.com. 
+Victims might visit this malicious domain through a mistake as simple as mistyping or misremembering a URL.
+
+If you’re skeptical of this strategy, try finding the differences between these URLs:
+
+	. kerning.com vs keming.com
+	. google.com vs goggle.com
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
