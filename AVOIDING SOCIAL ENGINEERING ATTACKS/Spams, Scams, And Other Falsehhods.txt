@@ -94,6 +94,66 @@ If the attacker is successful, the second company won’t notice the issue and w
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Credential Harvesting
+-----------------------
+Credential harvesting is when an attacker obtains, or harvests, a victim’s credentials. This can be targeted at a specific user, as part of a multi-stage attack, but credentials are often 
+stolen from many users at once, usually for financial gain.
+
+One method of targeted credential harvesting is known as a watering hole attack. A watering hole attack is when an attacker compromises a third-party service, software, or website used by 
+a target in order to get access to the target. The third-party service is the “watering hole” that the victims are all using, or “drinking from”. This is an example of how poor security 
+on the part of third-party vendors can compromise the security of the organizations that hire them.
+
+One example of a watering hole attack occurred in 2012, when a hacker group targeted websites promoting political activism. The attack involved redirecting victims to a different 
+compromised site, which would attempt to download malware onto the victims’ computers.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Physical Social Engineering Strategies
+----------------------------------------
+Having physical access to a target opens a world of new possibilities for an attacker, and sometimes obtaining physical access can be easier than breaking in using technology. These 
+strategies are centered around bypassing physical security or obtaining credentials in-person rather than through a computer.
+
+Tailgating refers to the act of following someone through a secure door before that door can close. (“What? That counts as a cybersecurity attack?” you ask? Yes, it can be that simple.)
+----------
+
+Dumpster diving is, exactly as it sounds, the process of going through trash to obtain sensitive information. While this might sound ridiculous, it’s more common than you might think. 
+---------------
+Organizations often improperly dispose of sensitive documents in a way that leaves them readable by social engineers. Lots of information can be obtained this way, from passwords on 
+sticky notes to information on employees to tax invoices. Make sure to shred your important papers!
+
+Shoulder surfing refers to the act of looking over someone’s shoulder as they type their password. While this does take some practice on the part of the social engineer, it is a very 
+----------------
+effective way of obtaining credentials… as long as they’re able to do it without getting caught!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
