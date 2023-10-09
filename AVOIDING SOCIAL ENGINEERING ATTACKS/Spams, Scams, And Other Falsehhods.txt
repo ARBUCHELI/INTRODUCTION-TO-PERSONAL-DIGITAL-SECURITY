@@ -22,3 +22,23 @@ means there is often no shortage of information about a target available online.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Social Engineering with Emails
+--------------------------------
+Sending unsolicited emails, also known as spam, is a highly effective social engineering strategy. Most spam emails that show up in our inboxes are obviously fake, and this is deliberate: 
+The scammers who send these emails want easy victims who won’t realize they’re being scammed. Sure, fewer people will open the email, but those who do open it are more likely to be 
+tricked.
+
+The spam used by Social Engineers is often different from these scammers: it’s meant to be hard to detect in order to slip through spam filters and appear legitimate. Most of us know not 
+to trust emails from random dating sites we didn’t sign up for, but what about emails that appear to come from your organization’s own IT department? These emails often exploit our trust, 
+by appearing to come from legitimate sources, and this can be compounded by a technique known as prepending.
+
+Prepending involves altering the subject line, or attaching a message to the email, that says something like “RE:” or “MAILSAFE:PASSED”, in order to make it appear that:
+
+	. We have already been communicating with the sender, OR
+
+	. The email has passed a spam filter.
+
+When done correctly, this can make the unsuspecting victim feel an even greater sense of security.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
