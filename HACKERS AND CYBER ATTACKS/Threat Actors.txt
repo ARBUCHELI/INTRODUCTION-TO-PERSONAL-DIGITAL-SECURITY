@@ -1,0 +1,17 @@
+# THREAT ACTORS
+---------------
+
+* Introduction
+--------------
+In this lesson, we’ll be looking at some common types of threat actors. We’ll discuss some of their attributes, and what makes them unique or dangerous. In general, we’ll start with less 
+dangerous types of threat actors, and move on to more dangerous types.
+
+Before we begin, let’s talk about a type of threat actor we won’t be going over: Individual Hackers. Hackers are people too, and they have widely varied personalities, motivations, and 
+skill sets. There is no single profile that can fit all individual hackers without being incredibly vague. Generally speaking, hackers are categorized into ethical (white-hat), malicious 
+(black-hat), and semi-ethical (gray-hat) depending on the actions they take.
+
+We also won’t be discussing APTs (Advanced Persistent Threats) as a type of their own: An APT is simply a threat actor that has advanced capabilities and is difficult to dissuade. If it 
+takes 6 months to compromise a target, then they’ll spend 6 months working on it.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
