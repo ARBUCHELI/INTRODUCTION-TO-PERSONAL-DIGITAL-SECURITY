@@ -100,4 +100,21 @@ against their will by an ethically dubious hospital, and it can be easy to see w
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Competitors
+-------------
+Corporate espionage has existed since at least the 1700s, and the digital era has made it easier than ever for unscrupulous organizations to steal trade secrets or sabotage rivals in 
+order to gain an unfair advantage. Competitors have been trying to steal secrets from others for centuries.
+
+Corporate espionage is usually illegal, so organizations that engage or attempt to engage in it will likely focus on secrecy and deniability. This means that the tactics they use will 
+probably be more sophisticated than usual, in an attempt to evade detection and attribution. Additionally, corporations often have large pools of resources (financial, personnel, etc) 
+that can be leveraged by attackers on their behalf.
+
+Most suspected cases of corporate espionage revolve around the theft (or attempted theft) of trade secrets - rival corporations probably don’t have a good reason to steal a password 
+database, for example. The threat actor’s motivation is likely higher than average, as they will be focusing on competitors, but they may be unwilling to overextend and leave themselves 
+vulnerable to detection.
+
+Corporate espionage is primarily external but may incorporate internal elements in the form of rogue employees, or agents working for the threat actor.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
