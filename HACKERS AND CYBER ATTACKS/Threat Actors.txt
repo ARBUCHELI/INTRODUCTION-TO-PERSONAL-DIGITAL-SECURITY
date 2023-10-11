@@ -68,4 +68,20 @@ Security are not aware of. This can be dangerous since unknown assets on an orga
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Hacker Groups
+---------------
+Before we move on to “scarier” threat actors, we need to discuss the generic concept of a “hacker group”. Hacker groups are, as the name suggests, groups of hackers. This is a very broad 
+term, and it can refer to everything from a group of friends who like tinkering with game consoles to state-sponsored threat groups.
+
+Many of the types of threat actors we will soon discuss also operate as groups, but there are plenty of groups that don’t fit cleanly into any one category. These “leftover” groups can 
+have a staggering variety of sophistication, resources, goals, and motivations, without necessarily having a clearly defined set of tactics.
+
+One hacker group might be for people interested in hacking Bluetooth devices, for example, while another group might be loosely-knit groups of individuals, all with their own style, who 
+like to show off their work to each other.
+
+Some groups might operate opportunistically, while others might focus on a specific target with a long-term objective in mind, though these objectives aren’t always “reasonable”. There 
+has been at least one documented case of a hacker group compromising a game developer because… well, they just wanted to play an early version of an upcoming game.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
