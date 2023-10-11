@@ -15,3 +15,57 @@ takes 6 months to compromise a target, then they’ll spend 6 months working on 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Human Error
+-------------
+One of the most common threat actors isn’t some shadowy hacker group, but the potential to make mistakes that lies in every one of us! Even though these mistakes aren’t intentionally 
+malicious, they still represent an (abstract) threat actor that should be considered when designing systems. Human error doesn’t have any specific targets or objectives - it can strike 
+anytime and anywhere that humans are involved, “attacking” through unpredictable means and with unpredictable results.
+
+Protecting against human error means designing processes and systems in ways where it is impossible (or at least very difficult) for mistakes to have a serious impact. We see this in 
+Murphy’s Law: if it’s possible to do something incorrectly, someone will do it incorrectly. Human error has caused data breaches, civil engineering disasters, airplane crashes, industrial 
+accidents, and much, much more.
+
+Human error can be both external and internal and includes any action that can be done by a human. Human error has whatever access has been granted to the human making the error, but very 
+little sophistication. For example, multi-step mistakes are less likely than very simple errors. Human error has no specific targets, as well as no “negative” motivation, as the humans 
+making the errors are often trying NOT to make errors!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Script Kiddies
+-----------------
+Script Kiddies is a term that refers to inexperienced hackers who lack experience, as well as have a low understanding of hacking and the tools used to do it. They make use of already 
+existing hacking tools and scripts, without understanding the underlying vulnerabilities that are being exploited. The word “kiddie”, usually used to refer to a small child, is instead 
+used to represent their lack of sophistication.
+
+Script kiddies are usually opportunistic in their targeting, and often hack just for the sake of hacking, rather than achieving some premeditated objective. However, this lack of planning 
+or high-level motivation doesn’t mean script kiddies are harmless!
+
+Modern hacking tools are easy to acquire, configure, and use, and the vast majority of vulnerabilities that get exploited in real-world scenarios are known vulnerabilities for which 
+exploits have been developed and distributed.
+
+Script kiddies are almost always external threats, with low sophistication and resources. They often have minimal or no funding, and only freely available resources. Their goals can vary, 
+but they usually operate opportunistically and don’t have a great deal of motivation. Once a script kiddie has been stopped by security measures, they’re likely to move on to an easier 
+target.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Insider Threats
+-----------------
+Insider threats are threat actors operating within an organization. Insider threats are usually employees but contractors or ex-employees can be considered insider threats too.
+
+Insider threats can have a variety of goals, such as financial gain, personal grievances, or gaining some sort of advantage over others. Insider threats can operate opportunistically or 
+deliberately, sometimes working with other threat actors to give them access they would not have otherwise had.
+
+Insider threats usually have elevated access and increased knowledge when compared to external threat actors. This can make them more difficult to detect, and it can give them more 
+options for how to attack the organization. Insider threats can have a wide range of sophistication - A disgruntled cashier, for example, will probably not be as sophisticated a threat as 
+a disgruntled security analyst.
+
+Insider threats are one reason why it’s so important to follow the principle of least privilege! Limiting the access insiders have means that a malicious insider will have fewer options 
+available to them, and can do less damage.
+
+One specific type of insider threat is that of Shadow IT. Shadow IT refers to assets that are part of an organization’s network, but aren’t set up or managed by IT AND that IT and 
+Security are not aware of. This can be dangerous since unknown assets on an organization’s network can create attack vectors that the organization is not aware of until it’s too late.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
