@@ -84,4 +84,20 @@ has been at least one documented case of a hacker group compromising a game deve
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Hacktivists
+-------------
+Hacktivists are hackers with an ideology, who strongly believe in a cause and are willing to break the law to further that cause.
+
+Hacktivists are defined by their strong motivation; this motivation means that they can be very difficult to dissuade from a target. If one method doesn’t work, they will just try 
+different approaches until something works.
+
+Hacktivists can have a wide variety of objectives that they aim to achieve via hacking. Defacement, denial of service, and leaking confidential information are all common actions taken by 
+hacktivists.
+
+Hacktivists are usually external threats, and they can have a range of sophistication and resources. Their goals are usually in service to whatever cause they are rallying behind. The 
+most dangerous aspect of hacktivist groups is their motivation. Many of these groups have goals that seem noble on paper. For example, revealing corruption or freeing someone being held 
+against their will by an ethically dubious hospital, and it can be easy to see why these hackers would feel strongly enough to take matters into their own hands.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
