@@ -117,4 +117,23 @@ Corporate espionage is primarily external but may incorporate internal elements 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Organized Cybercrime
+----------------------
+Organized cybercrime generally has a single overarching goal: Money. Financial fraud, data theft, extortion, trafficking, and so much more. If you can think of an underhanded way to make 
+money with computers, there’s probably a group of cybercriminals doing it.
+
+These cybercriminals usually represent an external threat, with a wide range of sophistication. Some groups might be relatively inexperienced, while others might be experienced hackers. 
+Likewise, the resources these groups have access to can vary, but they are likely to be higher than what a single person could muster.
+
+Cybercrime can be both opportunistic and targeted - If there’s a way for them to make money, they’ll probably start taking advantage of it sooner or later. Here’s a brief list of some 
+things one group, named REvil, did in 2020 and 2021:
+
+	. Stole A terabyte of data from a law firm, then attempted to extort, among others, Madonna and Lady Gaga.
+	. Attacked a trust that ran schools in the UK, and held stolen data for ransom, along with student’s coursework.
+	. Stole plans for upcoming Apple products and tried to hold them for ransom.
+	. Attacked a meatpacking company with ransomware, extorting 11 million dollars in bitcoin.
+	. Targeted an energy company with ransomware.
+	. Stole documents from a Florida-based military contractor.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
