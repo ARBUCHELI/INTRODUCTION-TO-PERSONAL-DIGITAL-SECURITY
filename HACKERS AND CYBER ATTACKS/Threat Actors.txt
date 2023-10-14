@@ -137,3 +137,16 @@ things one group, named REvil, did in 2020 and 2021:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Cyber Terrorists
+------------------
+Cyber terrorists seek to use hacking to cause large-scale destruction and harm. In some ways, they can be thought of as extremist hacktivists, who seek to use intimidation and destruction 
+to further their cause.
+
+While cyber terrorists are unlikely to be working alone, they may lack easy access to resources. That being said, world governments have a history of covertly funding terrorist groups so 
+there’s no reason to suspect that the same couldn’t be true for cyber terrorists.
+
+Cyber terrorists are likely to target systems that would cause significant damage or loss of life if compromised: Digital or physical infrastructure such as backbone routers, power 
+plants, water treatment plants, hospitals, etc.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
