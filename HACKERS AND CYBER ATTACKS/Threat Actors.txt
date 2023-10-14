@@ -150,3 +150,21 @@ plants, water treatment plants, hospitals, etc.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* State Actors
+--------------
+State actors are some of the most dangerous types of threat actors. They are often highly sophisticated and work with the support of other governmental organizations. They have large 
+quantities of resources provided to them by their government, allowing them to employ skilled hackers, not only to conduct attacks, but to search for vulnerabilities to develop into 
+cyberweapons.
+
+State actors are also highly motivated, working on behalf of a nation-state. If they decide to target an individual or organization, they have a specific objective in mind and will work 
+very hard to complete that objective while remaining undetected, even in the face of adversity. Failure or detection might cause them to retreat, but likely won’t dissuade them from their 
+objective.
+
+State actors’ motivations are based on what benefits the state they work for. They may attempt to spy on foreign nations, conduct cyber warfare, defend their nation against other threat 
+actors, spy on journalists, or whatever else the state commands of them.
+
+State actors are a quintessential example of an Advanced Persistent Threat (APT): they have advanced capabilities and access to resources and are difficult to dissuade from their 
+objective.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
