@@ -168,3 +168,21 @@ objective.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Review
+--------
+In this lesson you’ve learned about different types of threat actors:
+
+	. Individual Hackers
+	. Human Error
+	. Script Kiddies
+	. Insider Threats
+	. Hacker Groups
+	. Hacktivists
+	. Competitors
+	. Organized Cybercrime
+	. Cyber Terrorists
+
+Each of these threat actors has unique Tactics, Techniques, and Procedures (TTPs) and attributes. Understanding these actors, and their motivations, will help you prevent attacks on and 
+secure your systems.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
